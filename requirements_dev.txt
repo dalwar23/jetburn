@@ -1,0 +1,8 @@
+# Development requirements for jetburn
+# Airline ticket fare explorer program documentation
+# Author: Dalwar Hossain (dalwar23@protonmail.com)
+
+bump2version >= 1.0.0
+wheel >= 0.34.2
+watchdog >= 0.10.2
+black >= 19.10b0

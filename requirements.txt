@@ -1,0 +1,8 @@
+# Requirements for jetburn
+# Airline ticket fare explorer program documentation
+# Author: Dalwar Hossain (dalwar23@protonmail.com)
+
+sphinx >= 3.1.0
+recommonmark >= 0.6.0
+sphinx_rtd_theme >= 0.4.3
+sphinx-copybutton >= 0.2.12

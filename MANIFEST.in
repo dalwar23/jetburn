@@ -1,0 +1,6 @@
+exclude AUTHORS.rst
+exclude HISTORY.rst
+exclude LICENSE
+exclude README.rst
+
+recursive-exclude docs *.rst conf.py Makefile make.bat *.jpg *.png *.gif
