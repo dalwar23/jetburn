@@ -77,16 +77,14 @@ pipeline {
                 }
             }
        }
-        stage ('Build') {
-            stage ('Build HTML') {
-                steps {
-                    sh '''
-                    source venv/bin/activate
-                    cd docs/
-                    make clean html
-                    deactivate
-                    '''
-                }
+        stage ('Build HTML') {
+            steps {
+                sh '''
+                source venv/bin/activate
+                cd docs/
+                make clean html
+                deactivate
+                '''
             }
         }
         stage ('Create Artifacts') {
