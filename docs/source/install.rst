@@ -68,21 +68,3 @@ This command should install ``jetburn`` with all the required dependencies.
     please use a terminal emulator like, cmder [`Download Cmder <http://cmder.net/>`_] or
     ConEmu [`Download ConEmu <https://conemu.github.io/>`_]. Please use *<xterm>* color scheme
     from `settings` menu, for the best visual representation of the program.
-
-Install from Github
--------------------
-
-Alternatively, ``jetburn`` can be installed manually by downloading the current version from
-`GitHub <https://github.com/dharif23/jetburn>`_ or `PyPI <https://pypi.org/project/jetburn/>`_.
-To install a downloaded versions, please unpack it in a preferred directory and run the following commands at the top
-level of the directory:
-
-.. code-block:: shell
-
-   pip3 install .
-
-or run the following:
-
-.. code-block:: shell
-
-   python3 setup install
