@@ -18,7 +18,7 @@ Airline ticket explorer program
    :alt: PyPI - Python Version
    :target: https://jetburn.rtfd.io
 
-.. image:: https://img.shields.io/badge/platform-linux%2Fmacos-blue.svg?style=for-the-badge
+.. image:: https://img.shields.io/badge/platform-windows%2Flinux%2Fmacos-blue.svg?style=for-the-badge
    :alt: Supported platforms
    :target: https://jetburn.rtfd.io
 
