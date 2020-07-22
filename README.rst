@@ -52,4 +52,4 @@ For detailed documentation, please visit: `Jetburn Documentation <http://jetburn
 Bug Report
 ----------
 
-`Dalwar Hossain <mailto:dalwar23@protonmail.com>`_
+``jetburn`` issues - `Issues <https://github.com/dalwar23/jetburn/issues>`_
