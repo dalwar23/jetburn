@@ -26,7 +26,7 @@ project = "jetburn"
 copyright = "2020, Dalwar Hossain"
 author = "Dalwar Hossain"
 
-release_file = os.path.join("../..", project, "__version__.py")
+release_file = os.path.join("../..", "version.py")
 release_info = {}
 with open(release_file, "rb") as rf:
     exec(rf.read(), release_info)
