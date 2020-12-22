@@ -2,6 +2,12 @@
 History
 =======
 
+version 3.1.1
+-------------
+
+1. Added package information
+2. Fixed a few issues with packaging
+
 version 3.1.0
 ---------------
 
