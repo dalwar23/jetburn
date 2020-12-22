@@ -3,12 +3,12 @@ JETBURN
 Airline ticket explorer program
 
 .. image:: https://img.shields.io/badge/license-LGPL3.0-blue.svg?style=for-the-badge
-    :alt: License
-    :target: https://opensource.org/licenses/LGPL-3.0
+   :alt: License
+   :target: https://opensource.org/licenses/LGPL-3.0
 
 .. image:: https://img.shields.io/pypi/v/jetburn.svg?logo=python&style=for-the-badge
-    :alt: Pypi Version
-    :target: https://pypi.org/project/jetburn/
+   :alt: Pypi Version
+   :target: https://pypi.org/project/jetburn/
 
 .. image:: https://img.shields.io/pypi/wheel/jetburn?color=blue&logo=python&style=for-the-badge
    :alt: PyPI - Wheel
@@ -18,20 +18,16 @@ Airline ticket explorer program
    :alt: PyPI - Python Version
    :target: https://jetburn.rtfd.io
 
-.. image:: https://img.shields.io/badge/platform-windows%2Flinux%2Fmacos-blue.svg?style=for-the-badge
+.. image:: https://img.shields.io/badge/platform-linux%2Fmacos%2Fwindows-blue.svg?style=for-the-badge
    :alt: Supported platforms
    :target: https://jetburn.rtfd.io
 
-.. image:: https://img.shields.io/travis/dalwar23/jetburn/master.svg?style=for-the-badge
-    :alt: Build Status
-    :target: https://travis-ci.org/dalwar23/jetburn
-
 .. image:: https://img.shields.io/readthedocs/jetburn.svg?style=for-the-badge
-    :target: https://jetburn.readthedocs.io/?badge=latest
-    :alt: Documentation Status
+   :target: https://jetburn.readthedocs.io/?badge=latest
+   :alt: Documentation Status
 .. image:: https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge
-    :target: https://github.com/python/black
-    :alt: Code Style
+   :target: https://github.com/python/black
+   :alt: Code Style
 
 Description
 -----------
@@ -52,4 +48,4 @@ For detailed documentation, please visit: `Jetburn Documentation <http://jetburn
 Bug Report
 ----------
 
-``jetburn`` issues - `Issues <https://github.com/dalwar23/jetburn/issues>`_
+`Dalwar Hossain <mailto:dalwar23@pm.me>`_
