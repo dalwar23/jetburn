@@ -7,5 +7,5 @@
 __package_name__ = "jetburn"
 __author__ = "Dalwar Hossain"
 __author_email__ = "dalwar23@protonmail.com"
-__version__ = "3.1.0"
+__version__ = "3.1.1"
 __license__ = "GPL v3"
