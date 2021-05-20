@@ -2,6 +2,28 @@
 History
 =======
 
+version 3.1.5
+-------------
+
+1. Fixed bug for time duration of return flight
+
+version 3.1.4
+-------------
+
+1. Fixed bug with duration of the flight one way
+
+version 3.1.3
+-------------
+
+1. Add new tequila backend api
+2. fixed bugs with datahub.io
+
+version 3.1.2
+-------------
+
+1. Fixed api backend unreachable error for flight search
+2. Refactoring
+
 version 3.1.1
 -------------
 
@@ -80,4 +102,3 @@ version v1.0
 4. User defined currency and conversion between EURO
 5. User defined display list (number of search results shown on screen)
 6. Single mode execution
-
