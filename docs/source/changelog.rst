@@ -1,6 +1,13 @@
 Change Log
 ==========
 
+version 3.2.0
+-------------
+
+1. Updated documentation
+2. Updated find options
+3. Updated tests
+
 version 3.1.5
 -------------
 

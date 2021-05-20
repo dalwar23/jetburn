@@ -2,6 +2,13 @@
 History
 =======
 
+version 3.2.0
+-------------
+
+1. Updated documentation
+2. Updated find options
+3. Updated tests
+
 version 3.1.5
 -------------
 
@@ -102,3 +109,4 @@ version v1.0
 4. User defined currency and conversion between EURO
 5. User defined display list (number of search results shown on screen)
 6. Single mode execution
+
